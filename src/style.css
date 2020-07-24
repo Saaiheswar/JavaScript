@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.form-control{
+    border: none;
+    margin: 0;
+}
+
+.form-input{
+    border: 1px solid lightgray;
+    border-radius: .25rem;
+    margin-bottom: 15px;
+}
+
+.input-group-text{
+    background-color: white;
+    color: black;
+    border: none;
+}
+
+#signin-bar{
+    background-color: #54edf0;
+    color: white;
+    border-radius: .25rem;
+    height: 40px;
+    margin-bottom: 40px;
+    padding-top: 4px;
+}
+
+#signin-bar .input-group-text{
+    background-color: #54edf0;
+    font-size: larger;
+}
+
+input[type="submit"]{
+    background-color: #54edf0;
+    color: white;
+}
+
+#f-button{
+    background-color: #3B5998;
+    color: white;
+}
+
+#g-button{
+    background-color: #D44638;
+    color: white;
+}
+
+#epam-button{
+    background-color: #d4e349;
+    color: white;
+}
+
+hr{
+    border-top: 1px solid rgba(0,0,0,.4);
+}
+
+#or-div{
+    margin: 40px 0;
+}
+
+.separator{
+    width: 40%;
+    display: inline-block;
+}
+
+.maindiv{
+    border: 1px solid lightgray;
+    padding: 0px;
+    padding-bottom: 10px;
+}
+
+#or-div p{
+    display: inline-block;
+    width: 15%;
+}
+
+p{
+    font-weight: 700;
+}
